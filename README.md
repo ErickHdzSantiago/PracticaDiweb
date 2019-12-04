@@ -2,5 +2,5 @@
 Practica para usa en VSCode
 Equipo Los Continentales
 Erick Hernandez Santiago
-Julio Cesar Hernandez Nava
 Carlos David Dorantes Bautista
+Julio Cesar Hernandez Nava
