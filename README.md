@@ -1,7 +1,24 @@
 # PracticaDiweb
 Practica para usa en VSCode
 Equipo Los Continentales
-Erick Hernandez Santiago
-Carlos David Dorantes Bautista
-Julio Cesar Hernandez Nava
-Edson Osvaldo Portillo Molina
+ERICK HERNANDEZ SANTIAGO
+CARLOS DAVID DORANTES BAUTISTA
+JULIO CESAR HERNANDEZ NAVA
+EDSON OSVALDO PORTILLO MOLINA
+<html>
+<head>
+<style>
+body.{
+    background color:#orange;
+    
+}
+</style>
+</head>
+    <form> 
+    
+</form>
+
+<h1> que onda :v</h1>
+<body>
+</body>
+</html>
